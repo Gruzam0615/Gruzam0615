@@ -1,8 +1,11 @@
 Gruzam0615
 ==========
-- Springboot
+- Java
+- Spring
+- Javascript
 - React
 - Docker
+- AWS
 
 <!---
 Gruzam0615/Gruzam0615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
