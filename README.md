@@ -4,6 +4,8 @@ Gruzam0615
 - Spring
 - Javascript
 - React
+- Python
+- Pytorch
 - Docker
 - AWS
 
